@@ -14,11 +14,9 @@ Ignite Feed é um projeto da trilha de fundamentos de React JS da Rocketseat.
 
 ### Instalação
 
-```
 Clone o repositório do Projeto
 
 ```
-
 https://github.com/alessandre74/ignite-feed.git
 
 ```
@@ -26,7 +24,6 @@ https://github.com/alessandre74/ignite-feed.git
 Acesse o diretório do projeto
 
 ```
-
 cd ignite-feed
 
 ```
@@ -34,7 +31,6 @@ cd ignite-feed
 Instale as dependências
 
 ```
-
 yarn ou sudo yarn (com yarn )
 
 npm install ou sudo npm install (com npm)
@@ -44,7 +40,6 @@ npm install ou sudo npm install (com npm)
 Start o aplicativo
 
 ```
-
 npm run dev
 
 ```
@@ -52,4 +47,3 @@ npm run dev
 ## 📄 License
 
 Este projeto está sob a licença MIT
-```
